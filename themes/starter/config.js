@@ -337,7 +337,7 @@ const CONFIG = {
           URL: 'https://docs.tangly1024.com/article/notion-short-key'
         },
         {
-          TITLE: '待更新 3,
+          TITLE: '待更新 3',
           URL: 'https://docs.tangly1024.com/article/notion-faster'
         }
       ]
