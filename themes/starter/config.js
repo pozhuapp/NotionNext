@@ -207,25 +207,24 @@ const CONFIG = {
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TEAM_ITEMS: [
     {
-      STARTER_TEAM_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
-      STARTER_TEAM_ITEM_NICKNAME: 'Tangly',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
+      STARTER_TEAM_ITEM_AVATAR:'/images/starter/team/吴小平.png',
+      STARTER_TEAM_ITEM_NICKNAME: '吴小平',
+      STARTER_TEAM_ITEM_DESCRIPTION: '知名经济学者、金融投资大V'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Melissa Tatcher',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Marketing Expert'
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/潘向东.png',
+      STARTER_TEAM_ITEM_NICKNAME: '潘向东',
+      STARTER_TEAM_ITEM_DESCRIPTION: '清华应用经济学博士后、银河证券前首席经济学家'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Stuard Ferrel',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Digital Marketer'
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/管清友.png',
+      STARTER_TEAM_ITEM_NICKNAME: '管清友',
+      STARTER_TEAM_ITEM_DESCRIPTION: '如是金融研究院院长、民生证券前副总裁'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Eva Hudson',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Creative Designer'
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/杨德龙.png',
+      STARTER_TEAM_ITEM_NICKNAME: '杨德龙',
+      STARTER_TEAM_ITEM_DESCRIPTION: '前海开源首席经济学家、清华大学金融学院全球金融博士'
     }
   ],
 
