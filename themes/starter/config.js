@@ -41,18 +41,18 @@ const CONFIG = {
   STARTER_FEATURE_1_TITLE_1: '财富圈', // 特性1
   STARTER_FEATURE_1_TEXT_1: '「财富圈」破竹原创的多维度及时互动产品，包含研究随笔、音频课程、视频讲堂、私密直播。', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://pc.pozhu.com/all/15453989', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '大咖课', // 特性2
   STARTER_FEATURE_2_TEXT_1: '「大咖课」满足用户投资痛点需求的私密直播产品', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+    'https://pc.pozhu.com/all/17851140', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: 'SVIP', // 特性3
   STARTER_FEATURE_3_TEXT_1: '「SVIP」覆盖破竹App大量权益，音频畅听、直播免费、高端社群、专属客服、线下福利等。', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'https://pc.pozhu.com/all/14308723/26378382', // 特性3
 
 //  STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
 //  STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
