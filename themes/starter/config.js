@@ -4,7 +4,7 @@
 const CONFIG = {
   // 默认只展示Logo文字，如果设置了logo图片，会在文字左侧显示图标
   STARTER_LOGO: '', // 普通logo图片 示例：/images/starter/logo/logo.svg
-  STARTER_LOGO_WHITE: '/images/starter/logo/logo.png', // 透明底浅色logo 示例： /images/starter/logo/logo-white.svg
+  STARTER_LOGO_WHITE: '', // 透明底浅色logo 示例： /images/starter/logo/logo-white.svg
 
   // MENU ， 菜单部分不在此处配置，请在Notion数据库中添加MENU
 
@@ -54,10 +54,10 @@ const CONFIG = {
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'https://pc.pozhu.com/all/14308723/26378382', // 特性3
 
-//  STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
-//  STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
-//  STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-//  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+ STARTER_FEATURE_4_TITLE_1: '财经专家', // 特性4
+ STARTER_FEATURE_4_TEXT_1: '汇聚头部财经学者，成为用户认知升级的外脑。', // 特性4
+ STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
+ STARTER_FEATURE_4_BUTTON_URL: 'https://www.pozhu.com//#zhuanjia', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
@@ -246,7 +246,7 @@ const CONFIG = {
   STARTER_CONTACT_EMAIL_TEXT: '微信：pozhu33',
 
   // 嵌入外部表单
-  STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm创建，将留言数据存在Notion中
+  STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/contact-us-mcsw1b', // 基于NoteForm创建，将留言数据存在Notion中
   //   自定义留言表单，以下几个配置暂时废弃
   //   STARTER_CONTACT_MSG_TITLE: '向我们留言',
   //   STARTER_CONTACT_MSG_NAME: '姓名',
@@ -291,7 +291,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
+  STARTER_FOOTER_SLOGAN: '树财经思维，做投资实操。',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
