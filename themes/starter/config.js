@@ -4,7 +4,7 @@
 const CONFIG = {
   // 默认只展示Logo文字，如果设置了logo图片，会在文字左侧显示图标
   STARTER_LOGO: '', // 普通logo图片 示例：/images/starter/logo/logo.svg
-  STARTER_LOGO_WHITE: '', // 透明底浅色logo 示例： /images/starter/logo/logo-white.svg
+  STARTER_LOGO_WHITE: '/images/starter/logo/logo.png', // 透明底浅色logo 示例： /images/starter/logo/logo-white.svg
 
   // MENU ， 菜单部分不在此处配置，请在Notion数据库中添加MENU
 
@@ -16,9 +16,9 @@ const CONFIG = {
   STARTER_HERO_BUTTON_1_TEXT: '开始学习', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
     'https://www.pozhu.app', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
+  STARTER_HERO_BUTTON_2_TEXT: '联系我们', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://work.weixin.qq.com/kfid/kfce78726ce63a87ede', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_ICON: '/images/starter/wechat.png', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.png', // 产品预览图 ，默认读取public目录下图片
@@ -328,16 +328,16 @@ const CONFIG = {
       TITLE: '友情链接',
       LINK_GROUP: [
         {
-          TITLE: '待更新 1',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          TITLE: '米诺基金',
+          URL: 'https://www.minuo.com/'
         },
         {
-          TITLE: '待更新 1',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          TITLE: '破竹财经导航',
+          URL: 'https://www.pozhu.cc'
         },
         {
-          TITLE: '待更新 3',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          TITLE: 'Elink',
+          URL: 'https://https://appxwe1r6658464.elink.ai'
         }
       ]
     }
@@ -367,11 +367,11 @@ const CONFIG = {
     '访问我们的课程商店，挑选您喜欢的课程，开始您的投资之旅吧！',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
-    'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
+    'https://pc.pozhu.com',
   STARTER_CTA_BUTTON_TEXT: '开始学习',
 
   STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
-  STARTER_POST_REDIRECT_URL: 'https://blog.tangly1024.com', // 重定向域名
+  STARTER_POST_REDIRECT_URL: 'https://www.pozhu.app', // 重定向域名
   STARTER_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_STARTER_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
 export default CONFIG
