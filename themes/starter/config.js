@@ -301,12 +301,12 @@ const CONFIG = {
         { TITLE: '官方主页', URL: '/#home' },
         { TITLE: '操作文档', URL: 'https://pozhu.freevip.vip/about' },
         {
-          TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          TITLE: '热门资讯',
+          URL: 'https://www.pozhu.app/news'
         },
         {
           TITLE: '合作申请',
-          URL: 'https://pozhu.freevip.vip/article/my-service'
+          URL: 'https://www.pozhu.app/contact'
         }
       ]
     },
@@ -315,13 +315,13 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: '财富圈',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          URL: 'https://pc.pozhu.com/all/15453989'
         },
         {
           TITLE: '大咖课',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          URL: 'https://pc.pozhu.com/all/17851140'
         },
-        { TITLE: 'SVIP', URL: 'https://docs.tangly1024.com/article/latest' }
+        { TITLE: 'SVIP', URL: 'https://pc.pozhu.com/all/14308723/26378382' }
       ]
     },
     {
@@ -336,7 +336,7 @@ const CONFIG = {
           URL: 'https://www.pozhu.cc'
         },
         {
-          TITLE: 'Elink',
+          TITLE: 'Elink店铺',
           URL: 'https://https://appxwe1r6658464.elink.ai'
         }
       ]
