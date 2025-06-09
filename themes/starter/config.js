@@ -11,7 +11,7 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: '破竹投资课堂', // 英雄区文字
-  STARTER_HERO_TITLE_2: '树财经思维，做投资实操。', // 英雄区文字
+  STARTER_HERO_TITLE_2: '树财经视野，做投资实操。', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '开始学习', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -299,7 +299,7 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://pozhu.freevip.vip/about' },
+        { TITLE: '关于我们', URL: '/#about' },
         {
           TITLE: '热门资讯',
           URL: 'https://www.pozhu.app/news'
